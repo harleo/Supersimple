@@ -22,5 +22,8 @@ Either feel free to use the attached .sketch source file to upsize it, or wait u
 * Add more shapes/colors
 * Support for all iPhone screen sizes
 
+## Planned
+* Support other Apple devices (iPad, macOS, Apple Watch, iMac)
+
 ## Links
 [Dribbble post](https://dribbble.com/)
