@@ -23,7 +23,7 @@ Either feel free to use the attached .sketch source file to upsize it, or wait u
 * Support for all iPhone screen sizes
 
 ## Planned
-* Support other Apple devices (iPad, macOS, Apple Watch, iMac)
+* Support other Apple devices (iPad, iMac, Apple Watch)
 
 ## Links
 [Dribbble post](https://dribbble.com/)
