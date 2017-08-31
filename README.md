@@ -8,7 +8,6 @@ So I decided to create my own wallpapers, and I felt like there would be more pe
 ## Features
 * Simplistic/Minimalistic
 * Crisp, clean, pixel-perfect
-* Looks decent
 * No annoying watermarks
 * Open-source
 
@@ -26,4 +25,4 @@ Either feel free to use the attached .sketch source file to upsize it, or wait u
 * Support other Apple devices (iPad, iMac, Apple Watch)
 
 ## Links
-[Dribbble post](https://dribbble.com/)
+[Dribbble post](https://dribbble.com/shots/3775231-Supersimple-A-library-of-simple-iPhone-wallpapers-Batch-1)
