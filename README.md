@@ -12,15 +12,15 @@ So I decided to create my own wallpapers, and I felt like there would be more pe
 * No annoying watermarks
 * Open-source
 
+## Updates
+Supersimple will be regularly updated in "batches".
+These batches add more wallpaper variations to the library.
+
 ## Supported Resolutions
 * 750x1334 (iPhone 6, 6s, 7)
 
 (Currently the library only supports resolutions for the iPhone 6, iPhone 6s and iPhone 7 (750 x 1334).
 Either feel free to use the attached .sketch source file to upsize it, or wait until the repository is updated with more sizes).
-
-## Todo
-* Add more shapes/colors
-* Support for all iPhone screen sizes
 
 ## Planned
 * Support other Apple devices (iPad, iMac, Apple Watch)
