@@ -1,3 +1,4 @@
+![Supersimple logo](https://github.com/harleo/Harleo/blob/e7cd9063668c953e6ff552c3e466ce5ed4ab86c8/assets/offsite-img/Supersimple/supersimple_logo.jpg)
 # Supersimple
 A library of simple iPhone wallpapers.
 
