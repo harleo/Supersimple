@@ -1,4 +1,4 @@
-![Supersimple logo](https://raw.githubusercontent.com/harleo/img-repo/master/Supersimple/supersimple_github_repo_logo.jpg)
+![Supersimple logo](https://raw.githubusercontent.com/harleo/assets-repo/master/Supersimple/supersimple_github_repo_logo.jpg)
 
 A library of simple iPhone wallpapers.
 
