@@ -1,6 +1,21 @@
-![Supersimple logo](https://raw.githubusercontent.com/harleo/assets-repo/master/Supersimple/supersimple_github_repo_logo.jpg)
+<h1 align="center">
+	<img width="130" src="https://cdn.rawgit.com/harleo/assets-repo/b821e393/Supersimple/supersimple_github_repo_logo.svg" alt="Supersimple">
+  <br>
+  <b>Supersimple</b>
+	<br>
+  <br>
+</h1>
 
-A library of simple iPhone wallpapers.
+<p align="center">
+	<b>A library of simple iPhone wallpapers</b>
+</p>
+
+<h2 align="center">
+	<img src="https://cdn.rawgit.com/harleo/assets-repo/9642ee68/Supersimple/wallpaper-preview.gif" alt="Supersimple preview">
+  <br>
+</h2>
+
+---
 
 ## Story
 I was fed up with searching for various simplistic/minimalistic wallpapers all over the web or in some shady apps from the App Store.
